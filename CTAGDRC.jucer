@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="S1McCB" name="CTAGDRC" projectType="audioplug" jucerVersion="5.4.7"
-              reportAppUsage="0" displaySplashScreen="0" pluginFormats="buildAU,buildVST3"
-              cppLanguageStandard="latest">
+<JUCERPROJECT id="S1McCB" name="CTAGDRC" projectType="audioplug" reportAppUsage="0"
+              displaySplashScreen="1" pluginFormats="buildAU,buildVST3" cppLanguageStandard="latest"
+              jucerFormatVersion="1">
   <MAINGROUP id="S0Xk3o" name="CTAGDRC">
     <GROUP id="{4E098657-5DCD-3FE0-E00E-B4BD8657D603}" name="Drawables">
       <FILE id="Ya1AFm" name="power_white.svg" compile="0" resource="1" file="Drawables/power_white.svg"/>
